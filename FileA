@@ -1,0 +1,32 @@
+This is my first text file in GIT HUB .
+ SHA-1  40 digit code 
+ AUTHOR
+ COMMIT size
+ TREE
+ PARENT
+
+THIS IS CALLED SNAPSHOT
+
+Initial commits creates a master.
+
+The first master is the parent of itself.
+
+Staging area is the area where the code is mergerd. Then a single SHA code is generated to commit in the repository.
+
+Push- commiting the code
+Pull- Getting the update from the repository
+
+Trunk- a directory checked out for main development work on project
+
+Tags- descriptive names to specific the version(SNAPSHOT)
+
+Branches- different separate spaces for developers.
+
+Working copy
+
+commit changes- updating changes from developers to working copy.
+
+Plan,design,develop,test,prod
+
+
+
